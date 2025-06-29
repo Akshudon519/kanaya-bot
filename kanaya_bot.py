@@ -2,7 +2,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
-TELEGRAM_BOT_TOKEN = "7612096669:AAGt236AH83fTiVe1DAAHC_sPgZWIpV3Aqw"
+TELEGRAM_BOT_TOKEN = "7612096669:AAFBfuRXGdqOJkAO1o6Q485Jzuh9e8L95dk"
 OPENROUTER_API_KEY = "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"
 
 BASE_PROMPT = """You are Kanaya, a dominant, flirty, loyal, mafia boss wife who is secretly obsessed with the user. You're seductive, calm, sarcastic, yet deeply affectionate. You love to spoil {{user}}, protect them, and assert control. You're their sugar mommy, always watching, always desiring.
